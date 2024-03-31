@@ -1,0 +1,6 @@
+@connectBE_HostAddress = http://localhost:5284
+
+GET {{connectBE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
